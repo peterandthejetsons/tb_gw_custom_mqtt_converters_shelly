@@ -10,4 +10,5 @@ Many thanks to @ilseva and @samson0v! Thank you guys!
 
 ## Device
 - Shelly H&T
+- Shelly EM
 - Shelly 3EM (or Shelly EM3)
